@@ -115,3 +115,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/milador/milador/master/Assets/IMG/mit_license_icon.png" width="50%" height="50%" alt="MIT License"/>
 </p>
+
+<!-- ABOUT MMC START -->
+
+<!-- ABOUT MMC END -->
